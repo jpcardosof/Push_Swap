@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "libft.h": "c",
+        "stdlib.h": "c",
+        "cstdlib": "c",
+        "exception": "c",
+        "functional": "c",
+        "ios": "c",
+        "memory": "c",
+        "optional": "c",
+        "stdexcept": "c",
+        "typeinfo": "c"
+    }
+}
